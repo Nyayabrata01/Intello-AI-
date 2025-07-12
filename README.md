@@ -1,7 +1,7 @@
 
 
 # Intello AI - Adaptive Reasoning & Intelligence Assistant
-A sophisticated AI-powered assistant built with Next.js and powered by multiple LLM providers including Groq, Gemini, OpenAI, and Claude. RADHIKA adapts to different modes of interaction, providing specialized assistance for productivity, wellness, learning, creative tasks, and even acts as your GenZ bestie!
+A sophisticated AI-powered assistant built with Next.js and powered by multiple LLM providers including Groq, Gemini, OpenAI, and Claude. Intello AI adapts to different modes of interaction, providing specialized assistance for productivity, wellness, learning, creative tasks, and even acts as your GenZ bestie!
 
 
 
